@@ -1,0 +1,12 @@
+body, button
+{
+	font-size:45px;
+}
+button
+{
+	margin-left:-4px;
+	margin-right:-4px;
+	
+	width:100px;
+	height:100px;
+}
